@@ -1,0 +1,79 @@
+{
+  "compilerOptions": {
+    /* Spécifie la version ECMAScript cible */
+    "target": "ES2020",
+    
+    /* Spécifie le système de module */
+    "module": "commonjs",
+    
+    /* Active la génération de fichiers de déclaration */
+    "declaration": true,
+    
+    /* Spécifie le dossier de sortie pour les fichiers compilés */
+    "outDir": "./dist",
+    
+    /* Spécifie le dossier racine des fichiers source */
+    "rootDir": "./src",
+    
+    /* Active l'importation de fichiers JSON */
+    "resolveJsonModule": true,
+    
+    /* Permet d'importer des modules JavaScript */
+    "allowJs": true,
+    
+    /* Vérifie strictement les types null et undefined */
+    "strictNullChecks": true,
+    
+    /* Active toutes les vérifications de type strictes */
+    "strict": true,
+    
+    /* Génère des sourcemaps pour le débogage */
+    "sourceMap": true,
+    
+    /* Permet l'utilisation de fonctionnalités ES module avec le système de module CommonJS */
+    "esModuleInterop": true,
+    
+    /* Signale les erreurs dans les imports */
+    "forceConsistentCasingInFileNames": true,
+    
+    /* Signale les erreurs pour les variables non utilisées */
+    "noUnusedLocals": true,
+    
+    /* Signale les erreurs pour les paramètres de fonction non utilisés */
+    "noUnusedParameters": true,
+    
+    /* Vérifie que les cas dans un switch sont exhaustifs */
+    "noFallthroughCasesInSwitch": true,
+    
+    /* Permet l'importation de fichiers .js dans des fichiers .ts */
+    "allowSyntheticDefaultImports": true,
+    
+    /* Spécifie les types de bibliothèques à inclure */
+    "lib": ["ES2020"]
+  },
+  /* Spécifie les fichiers à inclure dans la compilation */
+  "include": ["src/**/*"],
+
+
+
+//   Explications supplémentaires :
+
+// target: "ES2020" est une bonne cible pour les versions récentes de Node.js. Ajustez-la en fonction de votre version de Node.js.
+// module: "commonjs" est recommandé pour les applications Node.js.
+// outDir et rootDir: Assurez-vous que ces chemins correspondent à la structure de votre projet.
+// strict: Active toutes les vérifications de type strictes, ce qui est fortement recommandé pour un code plus sûr.
+// sourceMap: Utile pour le débogage.
+// esModuleInterop: Facilite l'utilisation de modules ES6 avec CommonJS.
+// noUnusedLocals et noUnusedParameters: Aident à garder votre code propre en signalant les variables et paramètres non utilisés.
+// include et exclude: Ajustez ces tableaux selon la structure de votre projet.
+
+// Pour adapter ce fichier à votre projet :
+
+// Créez un fichier tsconfig.json à la racine de votre projet s'il n'existe pas déjà.
+// Copiez le contenu ci-dessus dans ce fichier.
+// Ajustez les chemins (outDir, rootDir) si nécessaire.
+// Modifiez include et exclude selon la structure de vos dossiers.
+// Si vous utilisez des fonctionnalités spécifiques ou des bibliothèques externes, vous pourriez avoir besoin d'ajouter ou de modifier certaines options.
+
+// Cette configuration fournira un bon point de départ pour votre projet TypeScript/Node.js, offrant un bon équilibre entre sécurité de typage et flexibilité de développement. 
+// N'hésitez pas à ajuster ces paramètres au fur et à mesure que votre projet évolue et que vous découvrez des besoins spécifiques.

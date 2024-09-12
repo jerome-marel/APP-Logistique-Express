@@ -1,0 +1,267 @@
+{
+  "Warehouses": [
+    {
+      "id": 1,
+      "name": "Entrepôt du  Havre",
+      "latitude": 49.4944,
+      "longitude": 0.1079,
+      "capacity": 10000
+    },
+    {
+      "id": 2,
+      "name": "Entrepôt de Lyon",
+      "latitude": 45.764,
+      "longitude": 4.8357,
+      "capacity": 8000
+    },
+    {
+      "id": 3,
+      "name": "Entrepôt de Tours",
+      "latitude": 47.3941,
+      "longitude": 0.6848,
+      "capacity": 5000
+    }
+  ],
+  "brandWarehouses": [
+    {
+      "id": 1,
+      "name": "Auchan Lille",
+      "enseigne": "Auchan",
+      "latitude": 50.6333,
+      "longitude": 3.02,
+      "address": "200 Rue de la Recherche, 59650 Villeneuve-d'Ascq"
+    },
+    {
+      "id": 2,
+      "name": "Auchan Paris",
+      "enseigne": "Auchan",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "address": "32 Avenue de Flandre, 75019 Paris"
+    },
+    {
+      "id": 3,
+      "name": "Auchan Lyon",
+      "enseigne": "Auchan",
+      "latitude": 45.764,
+      "longitude": 4.8357,
+      "address": "Chemin du Charbonnier, 69200 Vénissieux"
+    },
+    {
+      "id": 4,
+      "name": "Auchan Marseille",
+      "enseigne": "Auchan",
+      "latitude": 43.2965,
+      "longitude": 5.3698,
+      "address": "11 Avenue de Saint-Antoine, 13015 Marseille"
+    },
+    {
+      "id": 5,
+      "name": "Auchan Toulouse",
+      "enseigne": "Auchan",
+      "latitude": 43.6047,
+      "longitude": 1.4442,
+      "address": "1 Avenue de Grand Bretagne, 31300 Toulouse"
+    },
+    {
+      "id": 6,
+      "name": "Auchan Strasbourg",
+      "enseigne": "Auchan",
+      "latitude": 48.5734,
+      "longitude": 7.7521,
+      "address": "6 Route du Rhin, 67100 Strasbourg"
+    },
+    {
+      "id": 7,
+      "name": "Super U Angers",
+      "enseigne": "Super U",
+      "latitude": 47.4731,
+      "longitude": -0.5518,
+      "address": "Route d'Angers, 49240 Avrillé"
+    },
+    {
+      "id": 8,
+      "name": "Super U Nantes",
+      "enseigne": "Super U",
+      "latitude": 47.2184,
+      "longitude": -1.5536,
+      "address": "4 Rue Scribe, 44000 Nantes"
+    },
+    {
+      "id": 9,
+      "name": "Super U Rennes",
+      "enseigne": "Super U",
+      "latitude": 48.1173,
+      "longitude": -1.6778,
+      "address": "1 Rue du Pré Botté, 35000 Rennes"
+    },
+    {
+      "id": 10,
+      "name": "Super U Bordeaux",
+      "enseigne": "Super U",
+      "latitude": 44.8378,
+      "longitude": -0.5792,
+      "address": "16 Rue Sainte-Catherine, 33000 Bordeaux"
+    },
+    {
+      "id": 11,
+      "name": "Super U Orléans",
+      "enseigne": "Super U",
+      "latitude": 47.9029,
+      "longitude": 1.9039,
+      "address": "2 Rue des Halles, 45000 Orléans"
+    },
+    {
+      "id": 12,
+      "name": "Super U Dijon",
+      "enseigne": "Super U",
+      "latitude": 47.322,
+      "longitude": 5.0415,
+      "address": "10 Place de la Libération, 21000 Dijon"
+    },
+    {
+      "id": 13,
+      "name": "Intermarché Paris",
+      "enseigne": "Intermarché",
+      "latitude": 48.8367,
+      "longitude": 2.2445,
+      "address": "24 Rue Auguste Chabrières, 75015 Paris"
+    },
+    {
+      "id": 14,
+      "name": "Intermarché Lyon",
+      "enseigne": "Intermarché",
+      "latitude": 45.764,
+      "longitude": 4.8357,
+      "address": "110 Cours Charlemagne, 69002 Lyon"
+    },
+    {
+      "id": 15,
+      "name": "Intermarché Toulouse",
+      "enseigne": "Intermarché",
+      "latitude": 43.6047,
+      "longitude": 1.4442,
+      "address": "1 Place Alphonse Jourdain, 31000 Toulouse"
+    },
+    {
+      "id": 16,
+      "name": "Intermarché Strasbourg",
+      "enseigne": "Intermarché",
+      "latitude": 48.5734,
+      "longitude": 7.7521,
+      "address": "1 Place Kléber, 67000 Strasbourg"
+    },
+    {
+      "id": 17,
+      "name": "Intermarché Nice",
+      "enseigne": "Intermarché",
+      "latitude": 43.7102,
+      "longitude": 7.262,
+      "address": "31 Avenue Jean Médecin, 06000 Nice"
+    },
+    {
+      "id": 18,
+      "name": "Intermarché Montpellier",
+      "enseigne": "Intermarché",
+      "latitude": 43.6108,
+      "longitude": 3.8767,
+      "address": "1 Place de la Comédie, 34000 Montpellier"
+    },
+    {
+      "id": 19,
+      "name": "Leclerc Nantes",
+      "enseigne": "Leclerc",
+      "latitude": 47.2538,
+      "longitude": -1.5735,
+      "address": "44 Rue de la Cornouaille, 44300 Nantes"
+    },
+    {
+      "id": 20,
+      "name": "Leclerc Brest",
+      "enseigne": "Leclerc",
+      "latitude": 48.3904,
+      "longitude": -4.4861,
+      "address": "237 Rue Jean Jaurès, 29200 Brest"
+    },
+    {
+      "id": 21,
+      "name": "Leclerc Clermont-Ferrand",
+      "enseigne": "Leclerc",
+      "latitude": 45.7772,
+      "longitude": 3.087,
+      "address": "1 Rue Fontgiève, 63000 Clermont-Ferrand"
+    },
+    {
+      "id": 22,
+      "name": "Leclerc Nice",
+      "enseigne": "Leclerc",
+      "latitude": 43.7102,
+      "longitude": 7.262,
+      "address": "16 Avenue Jean Médecin, 06000 Nice"
+    },
+    {
+      "id": 23,
+      "name": "Leclerc Rouen",
+      "enseigne": "Leclerc",
+      "latitude": 49.4431,
+      "longitude": 1.0993,
+      "address": "1 Rue du Grand Pont, 76000 Rouen"
+    },
+    {
+      "id": 24,
+      "name": "Leclerc Metz",
+      "enseigne": "Leclerc",
+      "latitude": 49.1193,
+      "longitude": 6.1757,
+      "address": "2 En Fournirue, 57000 Metz"
+    },
+    {
+      "id": 25,
+      "name": "Carrefour Massy",
+      "enseigne": "Carrefour",
+      "latitude": 48.7881,
+      "longitude": 2.2408,
+      "address": "93 Avenue de Paris, 91300 Massy"
+    },
+    {
+      "id": 26,
+      "name": "Carrefour Lille",
+      "enseigne": "Carrefour",
+      "latitude": 50.6333,
+      "longitude": 3.0667,
+      "address": "Centre Commercial Euralille, 59777 Lille"
+    },
+    {
+      "id": 27,
+      "name": "Carrefour Marseille",
+      "enseigne": "Carrefour",
+      "latitude": 43.2965,
+      "longitude": 5.3698,
+      "address": "11 Avenue de Saint-Antoine, 13015 Marseille"
+    },
+    {
+      "id": 28,
+      "name": "Carrefour Bordeaux",
+      "enseigne": "Carrefour",
+      "latitude": 44.8378,
+      "longitude": -0.5792,
+      "address": "Cours de l'Intendance, 33000 Bordeaux"
+    },
+    {
+      "id": 29,
+      "name": "Carrefour Nancy",
+      "enseigne": "Carrefour",
+      "latitude": 48.6921,
+      "longitude": 6.1844,
+      "address": "2 Rue Saint-Jean, 54000 Nancy"
+    },
+    {
+      "id": 30,
+      "name": "Carrefour Grenoble",
+      "enseigne": "Carrefour",
+      "latitude": 45.1885,
+      "longitude": 5.7245,
+      "address": "1 Place Victor Hugo, 38000 Grenoble"
+    }
+  ]
+}
