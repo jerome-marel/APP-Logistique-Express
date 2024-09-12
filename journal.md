@@ -33,14 +33,27 @@ Début du projet de système de gestion logistique pour entrepôts sur vscode.
 3. Création des modèles de données pour les entrepôts principaux et les entrepôts d'enseigne.
 4. Développement des routes de base pour les opérations CRUD sur les entrepôts.
 5. Configuration initiale de la base de données avec des données factices pour les tests.
+6. Detail du projet pour le readme ainsi que le suivie dans ce journal
+7. Creation du repot github
+8. Mise en place du .gitignore pour mes prises de notes, ainsi que pour le dossier node_modules.
 
 ### Prochaines étapes :
 
+- Tester les routes
+- Se renseigner sur l'utilisation d'overpass et de OpenStreetMap
 - Implémenter la logique de routage pour les camions entre les entrepôts.
 - Développer des fonctionnalités de gestion des stocks.
-- Ajouter des tests unitaires et d'intégration.
 
 ### Réflexions :
 
 Le projet avance bien. L'utilisation de TypeScript apporte une meilleure structure et sécurité au code.
 La prochaine session se concentrera sur l'implémentation des fonctionnalités métier spécifiques à la logistique réfrigérée.
+
+### Timing
+
+Début : 9h15
+Pause : 10h40 à 11h10
+Fin : 15h05
+
+Temps de travail : 5h20
+Se forcer à prendre des pauses
